@@ -1,4 +1,4 @@
 #Exercicio
 nome = input("Qual o seu nome? ")
-print ("Ola " +nome,", Seja bem vindo!")
+print (f"Olá {nome}, Seja bem vindo!")
 
