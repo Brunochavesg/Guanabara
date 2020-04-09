@@ -6,5 +6,5 @@ if tipo == "DOLAR":
 elif tipo == "EURO":
     print (f"Você tem R${n1} Reais e pode comprar EU${n1/dolar:.2f} Euro")
 else:
-    print ("Moeda desconhecida, digite dolar ou.")
+    print ("Moeda desconhecida, digite dolar ou euro.")
 
